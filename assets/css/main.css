@@ -990,7 +990,7 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #49bf9d;
+  color: white;
   text-decoration: none; }
   a:hover {
     border-bottom-color: transparent;
@@ -1642,10 +1642,10 @@ input[type="button"],
 #header {
   background-color: #1f1815;
   background-attachment: scroll,								fixed;
-  background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+  background-image: url("images/overlay.png"), url("../../images/asideroses.jpg");
   background-position: top left,							top left;
   background-repeat: repeat,								no-repeat;
-  background-size: auto,								auto 100%;
+  background-size: auto,								auto 150%;
   color: rgba(255, 255, 255, 0.5);
   height: 100%;
   left: 0;
